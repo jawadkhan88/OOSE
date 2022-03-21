@@ -1,0 +1,22 @@
+         Lab 03 – Finding Objects in Problem Domain
+     Objectives
+Introduction to Problem Domain
+Find objects in problem domain 
+Stakeholder of the Software
+Prepare a list of objects 
+Implementation of basic OO programming concepts
+Introduction
+A problem domain is the area of application that needs to be examined to solve a problem. Focusing on a problem domain is simply looking at only the topics of an individual's interest, and excluding everything else. 
+For example, when developing a system to measure good practice in medicine, carpet drawings at hospitals would not be included in the problem domain. In this example, the domain refers to relevant topics solely within the delimited area of interest: medicine.
+Problem domain analysis is completely independent of solution domain constructs, and is therefore eminently reusable. Fundamentally, a video rental store is just a video rental store. The required workflow does not change, regardless of whether the solution is implemented with a spiral-bound notebook, or a distributed, peer-to-peer database solution.
+Object Oriented Analysis
+You need to find object of interest for your semester software project for the target problem domain. Any noun in the problem description is either attribute or an object that might be necessary to record. 
+Stakeholders
+Any person, another software or external services may be your stakeholders if they have directly or indirectly interest in your software solution. Focus specifically on roles people will play in your software.
+ 
+Lab Tasks
+Prepare a list of objects in your semester project
+Describe how each object is related to your project, specially focus on their state change or any behavior they will have in your software.
+Categorize them such that you can easily pick the object that will be used in the software solution
+Add some state and behavior to those objects.
+Find relationship among the objects and list them.
